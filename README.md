@@ -1,1 +1,1 @@
-# sql_lesson
+# sql_lessonマスターブランチにファイルがあります。
