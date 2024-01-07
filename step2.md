@@ -157,5 +157,3 @@ UPDATE episode SET episode_title = 'Introduction Episode' WHERE id = 4;
 UPDATE episode SET episode_title = 'Pilot Adventure' WHERE id = 5;
 
 ```
-
-
